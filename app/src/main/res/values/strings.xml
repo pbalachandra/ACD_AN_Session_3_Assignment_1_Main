@@ -1,0 +1,5 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">HIDE / SHOW</string>
+    <string name="button_hide">HIDE</string>
+    <string name="button_show">SHOW</string>
+</resources>
